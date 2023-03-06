@@ -25,3 +25,10 @@ generatedPassword = []
 generate 2 random numbers from arr3
 access these 2 values from arr3;
 push these values in generated Password 
+
+
+### output
+
+
+![output](./output/img-01.png)
+![output](./output/img-02.png)
